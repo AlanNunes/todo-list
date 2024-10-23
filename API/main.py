@@ -21,7 +21,7 @@ app.add_middleware(
 todos = [
     TodoItem('.NET Aspire', completed=True),
     TodoItem('React interceptor', completed=False),
-    TodoItem('Positional Encoding', completed=False),
+    TodoItem('LLM Positional Encoding', completed=False),
     TodoItem('Build a sample gRPC project', completed=False),
 ]
 
